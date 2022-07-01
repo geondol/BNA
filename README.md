@@ -58,9 +58,10 @@
 <img src="https://user-images.githubusercontent.com/93896063/176850995-a58b56e5-809d-48e1-8001-1b9baf2bdad8.png">
 
 ## 공지사항 제목 클릭시 상세화면으로 이동
+### 조회수 1씩 증가
 <img src="https://user-images.githubusercontent.com/93896063/176851359-d91623e1-6cb4-480c-a9d2-2584f7841379.png">
 
-## 수정하기 버튼 클릭시 수정화면으로 이동
+## 수정하기 버튼 클릭시 수정화면으로 이동(DB수정)
 <img src="https://user-images.githubusercontent.com/93896063/176851611-d3c9f2b9-7c95-4410-b06e-2c72c730b8a9.png">
 <img src="https://user-images.githubusercontent.com/93896063/176851625-cf55e3fd-dc89-445f-ab26-8fcd4f80eafa.png">
 
