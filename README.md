@@ -46,4 +46,22 @@
 ## 예약 체험 이름 클릭시 예약한 체험 상세 화면으로 이동
 <img src="https://user-images.githubusercontent.com/93896063/176840579-e764bede-414c-49c6-a57d-2b16579eb3ee.png">
 
+## 이벤트 페이지와 공지사항 페이지는 같음
+## 메인화면에서 공지사항 모두보기 클릭 (최근에 올린게 맨위로 올라감,DB에서 공지사항 모든 정보를 가져옴)
+### 관리자로 로그인시 삭제와 글쓰기 버튼 생성, 비회원과 회원일시 삭제와 글쓰기 버튼 없앰
+### 페이징처리(5개씩), 삭제 버튼 클릭시 DB에서 공지사항 삭제
+<img src="https://user-images.githubusercontent.com/93896063/176850021-64da5acd-705e-4fd6-b30f-20c500c8bebb.png">
+<img src="https://user-images.githubusercontent.com/93896063/176850026-f9a75b97-69b8-4685-9c54-17d38846eaed.png">
+
+## 공지사항에서 글쓰기 버튼 클릭,정보 입력(DB저장)
+<img src="https://user-images.githubusercontent.com/93896063/176850991-90ea0685-f316-40fa-a49a-20f97a1b8b8e.png">
+<img src="https://user-images.githubusercontent.com/93896063/176850995-a58b56e5-809d-48e1-8001-1b9baf2bdad8.png">
+
+## 공지사항 제목 클릭시 상세화면으로 이동
+<img src="https://user-images.githubusercontent.com/93896063/176851359-d91623e1-6cb4-480c-a9d2-2584f7841379.png">
+
+## 수정하기 버튼 클릭시 수정화면으로 이동
+<img src="https://user-images.githubusercontent.com/93896063/176851611-d3c9f2b9-7c95-4410-b06e-2c72c730b8a9.png">
+<img src="https://user-images.githubusercontent.com/93896063/176851625-cf55e3fd-dc89-445f-ab26-8fcd4f80eafa.png">
+
 
